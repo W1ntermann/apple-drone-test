@@ -1,0 +1,14 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "bradlc.vscode-tailwindcss",
+    "ms-vscode.vscode-typescript-next",
+    "React-Native.react-native-tools",
+    "unifiedjs.vscode-mdx",
+    "usernamehw.errorlens",
+    "wayou.vscode-todo-highlight",
+    "eamodio.gitlens",
+    "ms-azuretools.vscode-docker"
+  ]
+}
